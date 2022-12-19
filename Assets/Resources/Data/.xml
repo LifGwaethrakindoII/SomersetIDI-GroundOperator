@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ApplicationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="Supercargo">
+  <name xmlns="Assets/Resources/Data/.xml">Data_Application_0</name>
+  <hideFlags xmlns="Assets/Resources/Data/.xml">None</hideFlags>
+  <PatternCommands>
+    <PatternCommand>
+      <Command>KeepGoing</Command>
+      <KeyPoses>
+        <KeyPose>
+          <Head_Orientation>None</Head_Orientation>
+          <Left_Hand_Orientation>Up</Left_Hand_Orientation>
+          <Left_Paddle_Orientation>None</Left_Paddle_Orientation>
+          <Right_Hand_Orientation>Up</Right_Hand_Orientation>
+          <Right_Paddle_Orientation>None</Right_Paddle_Orientation>
+        </KeyPose>
+        <KeyPose>
+          <Head_Orientation>None</Head_Orientation>
+          <Left_Hand_Orientation>Down</Left_Hand_Orientation>
+          <Left_Paddle_Orientation>None</Left_Paddle_Orientation>
+          <Right_Hand_Orientation>Down</Right_Hand_Or

@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 2fc9f488e6dc7ec44b50811b6e8d425c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bell
+    100002: bell01
+    100004: bellfloo
+    100006: bellligh
+    100008: bellmeta
+    100010: bellpane
+    100012: bellpro1
+    100014: bellprop
+    100016: bellsit
+    100018: belltail
+    100020: belltop
+    100022: bellwhee
+    100024: bellwind
+    100026: //RootNode
+    400000: bell
+    400002: bell01
+    400004: bellfloo
+    400006: bellligh
+    400008: bellmeta
+    400010: bellpane
+    400012: bellpro1
+    400014: bellprop
+    400016: bellsit
+    400018: belltail
+    400020: belltop
+    400022: bellwhee
+    400024: bellwind
+    400026: //RootNode
+    2100000: cris
+    2100002: metal
+    2100004: negro
+    2100006: reji
+    2100008: belltop1
+    2100010: left
+    2100012: vert
+    2100014: hor
+    2100016: 'Material #3'
+    2100018: 'Material #109'
+    2100020: heliz
+    2100022: 'Material #1'
+    2100024: panel
+    2100026: light
+    2100028: inter
+    2100030: fuselaje
+    2100032: rej2
+    2100034: right
+    2100036: negrmarc
+    2100038: rej1
+    2100040: tobera
+    2300000: bell
+    2300002: bell01
+    2300004: bellfloo
+    2300006: bellligh
+    2300008: bellmeta
+    2300010: bellpane
+    2300012: bellpro1
+    2300014: bellprop
+    2300016: bellsit
+    2300018: belltail
+    2300020: belltop
+    2300022: bellwhee
+    2300024: bellwind
+    3300000: bell
+    3300002: bell01
+    3300004: bellfloo
+    3300006: bellligh
+    3300008: bellmeta
+    3300010: bellpane
+    3300012: bellpro1
+    3300014: bellprop
+    3300016: bellsit
+    3300018: belltail
+    3300020: belltop
+    3300022: bellwhee
+    3300024: bellwind
+    4300000: bellwind
+    4300002: bellwhee
+    4300004: belltop
+    4300006: belltail
+    4300008: bellsit
+    4300010: bellprop
+    4300012: bellpro1
+    4300014: bellpane
+    4300016: bellmeta
+    4300018: bellligh
+    4300020: bellfloo
+    4300022: bell01
+    4300024: bell
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

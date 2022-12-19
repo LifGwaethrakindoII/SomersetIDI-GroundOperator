@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: d13778cc2fe9d754eb22135ad8e6dacb
+timeCreated: 1535358469
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Canopy
+    100004: Control Surfaces
+    100006: Doors
+    100008: Doors 1
+    100010: Engine
+    100012: Engine_Part_1
+    100014: Engine_Part_2
+    100016: Engine_Part_3
+    100018: Exhaust_Door_2
+    100020: Exhaust_Door_3
+    100022: Exhaust_Door_4
+    100024: Exhaust_Door_5
+    100026: Exhaust_Door_6
+    100028: Exhaust_Door_7
+    100030: Exhaust_Door_8
+    100032: Exhaust_Door_9
+    100034: //RootNode
+    100036: Front Gear
+    100038: Front Wheel
+    100040: Landing Gears
+    100042: LandingGear_Door_1
+    100044: LandingGear_Door_2
+    100046: LandingGear_Door_3
+    100048: LandingGear_Door_4
+    100050: LandingGear_Door_5
+    100052: LandingGear_Door_6
+    100054: LandingGear_Door_7
+    100056: LandingGear_Door_8
+    100058: Left Axle
+    100060: Left gear
+    100062: Left Wheel
+    100064: Left_Elevator
+    100066: Left_Flap
+    100068: Left_Rudder
+    100070: Left_Slat
+    100072: Main
+    100074: Object42
+    100076: Object66
+    100078: Object67
+    100080: Object68
+    100082: Object69
+    100084: Object70
+    100086: Object71
+    100088: Object72
+    100090: Object73
+    100092: Object74
+    100094: Object75
+    100096: Object76
+    100098: Object77
+    100100: Object78
+    100102: Object79
+    100104: Object80
+    100106: Object81
+    100108: Object82
+    100110: Object83
+    100112: Right Axle
+    100114: Right Gear
+    100116: Right Wheel
+    100118: Right_Elevator
+    100120: Right_Flap
+    100122: Right_Rudder
+    100124: Right_Slat
+    100126: Top Exhaut Door
+    100128: Top_Propeller
+    100130: Weapon System
+    100132: Weapons_Door_1
+    100134: Weapons_Door_2
+    100136: Weapons_Door_3
+    100138: Weapons_Door_4
+    400000: Body
+    400002: Canopy
+    400004: Control Surfaces
+    400006: Doors
+    400008: Doors 1
+    400010: Engine
+    400012: Engine_Part_1
+    400014: Engine_Part_2
+    400016: Engine_Part_3
+    400018: Exhaust_Door_2
+    400020: Exhaust_Door_3
+    400022: Exhaust_Door_4
+    400024: Exhaust_Door_5
+    400026: Exhaust_Door_6
+    400028: Exhaust_Door_7
+    400030: Exhaust_Door_8
+    400032: Exhaust_Door_9
+    400034: //RootNode
+    400036: Front Gear
+    400038: Front Wheel
+    400040: Landing Gears
+    400042: LandingGear_Door_1
+    400044: LandingGear_Door_2
+    400046: LandingGear_Door_3
+    400048: LandingGear_Door_4
+    400050: LandingGear_Door_5
+    400052: LandingGear_Door_6
+    400054: LandingGear_Door_7
+    400056: LandingGear_Door_8
+    400058: Left Axle
+    400060: Left gear
+    400062: Left Wheel
+    400064: Left_Elevator
+    400066: Left_Flap
+    400068: Left_Rudder
+    400070: Left_Slat
+    400072: Main
+    400074: Object42
+    400076: Object66
+    400078: Object67
+    400080: Object68
+    400082: Object69
+    400084: Object70
+    400086: Object71
+    400088: Object72
+    400090: Object73
+    400092: Object74
+    400094: Object75
+    400096: Object76
+    400098: Object77
+    400100: Object78
+    400102: Object79
+    400104: Object80
+    400106: Object81
+    400108: Object82
+    400110: Object83
+    400112: Right Axle
+    400114: Right Gear
+    400116: Right Wheel
+    400118: Right_Elevator
+    400120: Right_Flap
+    400122: Right_Rudder
+    400124: Right_Slat
+    400126: Top Exhaut Door
+    400128: Top_Propeller
+    400130: Weapon System
+    400132: Weapons_Door_1
+    400134: Weapons_Door_2
+    400136: Weapons_Door_3
+    400138: Weapons_Door_4
+    2300000: Body
+    2300002: Canopy
+    2300004: Engine_Part_1
+    2300006: Engine_Part_2
+    2300008: Engine_Part_3
+    2300010: Exhaust_Door_2
+    2300012: Exhaust_Door_3
+    2300014: Exhaust_Door_4
+    2300016: Exhaust_Door_5
+    2300018: Exhaust_Door_6
+    2300020: Exhaust_Door_7
+    2300022: Exhaust_Door_8
+    2300024: Exhaust_Door_9
+    2300026: Front Gear
+    2300028: Front Wheel
+    2300030: LandingGear_Door_1
+    2300032: LandingGear_Door_2
+    2300034: LandingGear_Door_3
+    2300036: LandingGear_Door_4
+    2300038: LandingGear_Door_5
+    2300040: LandingGear_Door_6
+    2300042: LandingGear_Door_7
+    2300044: LandingGear_Door_8
+    2300046: Left Axle
+    2300048: Left gear
+    2300050: Left Wheel
+    2300052: Left_Elevator
+    2300054: Left_Flap
+    2300056: Left_Rudder
+    2300058: Left_Slat
+    2300060: Main
+    2300062: Object42
+    2300064: Object66
+    2300066: Object67
+    2300068: Object68
+    2300070: Object69
+    2300072: Object70
+    2300074: Object71
+    2300076: Object72
+    2300078: Object73
+    2300080: Object74
+    2300082: Object75
+    2300084: Object76
+    2300086: Object77
+    2300088: Object78
+    2300090: Object79
+    2300092: Object80
+    2300094: Object81
+    2300096: Object82
+    2300098: Object83
+    2300100: Right Axle
+    2300102: Right Gear
+    2300104: Right Wheel
+    2300106: Right_Elevator
+    2300108: Right_Flap
+    2300110: Right_Rudder
+    2300112: Right_Slat
+    2300114: Top Exhaut Door
+    2300116: Top_Propeller
+    2300118: Weapons_Door_1
+    2300120: Weapons_Door_2
+    2300122: Weapons_Door_3
+    2300124: Weapons_Door_4
+    3300000: Body
+    3300002: Canopy
+    3300004: Engine_Part_1
+    3300006: Engine_Part_2
+    3300008: Engine_Part_3
+    3300010: Exhaust_Door_2
+    3300012: Exhaust_Door_3
+    3300014: Exhaust_Door_4
+    3300016: Exhaust_Door_5
+    3300018: Exhaust_Door_6
+    3300020: Exhaust_Door_7
+    3300022: Exhaust_Door_8
+    3300024: Exhaust_Door_9
+    3300026: Front Gear
+    3300028: Front Wheel
+    3300030: LandingGear_Door_1
+    3300032: LandingGear_Door_2
+    3300034: LandingGear_Door_3
+    3300036: LandingGear_Door_4
+    3300038: LandingGear_Door_5
+    3300040: LandingGear_Door_6
+    3300042: LandingGear_Door_7
+    3300044: LandingGear_Door_8
+    3300046: Left Axle
+    3300048: Left gear
+    3300050: Left Wheel
+    3300052: Left_Elevator
+    3300054: Left_Flap
+    3300056: Left_Rudder
+    3300058: Left_Slat
+    3300060: Main
+    3300062: Object42
+    3300064: Object66
+    3300066: Object67
+    3300068: Object68
+    3300070: Object69
+    3300072: Object70
+    3300074: Object71
+    3300076: Object72
+    3300078: Object73
+    3300080: Object74
+    3300082: Object75
+    3300084: Object76
+    3300086: Object77
+    3300088: Object78
+    3300090: Object79
+    3300092: Object80
+    3300094: Object81
+    3300096: Object82
+    3300098: Object83
+    3300100: Right Axle
+    3300102: Right Gear
+    3300104: Right Wheel
+    3300106: Right_Elevator
+    3300108: Right_Flap
+    3300110: Right_Rudder
+    3300112: Right_Slat
+    3300114: Top Exhaut Door
+    3300116: Top_Propeller
+    3300118: Weapons_Door_1
+    3300120: Weapons_Door_2
+    3300122: Weapons_Door_3
+    3300124: Weapons_Door_4
+    4300000: Body
+    4300002: Main
+    4300004: Left_Elevator
+    4300006: Left_Flap
+    4300008: Left_Rudder
+    4300010: Left_Slat
+    4300012: Right_Elevator
+    4300014: Right_Flap
+    4300016: Right_Rudder
+    4300018: Right_Slat
+    4300020: Weapons_Door_3
+    4300022: Weapons_Door_2
+    4300024: Weapons_Door_4
+    4300026: Weapons_Door_1
+    4300028: Left gear
+    4300030: Left Axle
+    4300032: Left Wheel
+    4300034: Right Gear
+    4300036: Right Axle
+    4300038: Right Wheel
+    4300040: Front Gear
+    4300042: Front Wheel
+    4300044: Engine_Part_1
+    4300046: Engine_Part_2
+    4300048: Engine_Part_3
+    4300050: Object83
+    4300052: Object80
+    4300054: Object81
+    4300056: Object82
+    4300058: Object42
+    4300060: Object66
+    4300062: Object67
+    4300064: Object68
+    4300066: Object69
+    4300068: Object70
+    4300070: Object71
+    4300072: Object72
+    4300074: Object73
+    4300076: Object74
+    4300078: Object75
+    4300080: Object76
+    4300082: Object77
+    4300084: Object78
+    4300086: Object79
+    4300088: Top_Propeller
+    4300090: Exhaust_Door_2
+    4300092: Exhaust_Door_3
+    4300094: Exhaust_Door_4
+    4300096: Exhaust_Door_5
+    4300098: Exhaust_Door_6
+    4300100: Exhaust_Door_7
+    4300102: Exhaust_Door_8
+    4300104: Exhaust_Door_9
+    4300106: Canopy
+    4300108: LandingGear_Door_1
+    4300110: LandingGear_Door_2
+    4300112: LandingGear_Door_3
+    4300114: LandingGear_Door_4
+    4300116: LandingGear_Door_5
+    4300118: LandingGear_Door_6
+    4300120: LandingGear_Door_7
+    4300122: LandingGear_Door_8
+    4300124: Top Exhaut Door
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

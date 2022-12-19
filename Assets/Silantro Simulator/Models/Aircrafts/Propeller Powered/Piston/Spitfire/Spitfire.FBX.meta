@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 2f1cd646121fef844bc6ceac1ebbbfa8
+timeCreated: 1526597867
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: alieron_left
+    100002: alieron_right
+    100004: Body
+    100006: cockpitcage
+    100008: cutout_left
+    100010: cutout_right
+    100012: exhaust
+    100014: flap_left
+    100016: flap_right
+    100018: Left Tail
+    100020: Left Wing
+    100022: Pitch
+    100024: prop_spin
+    100026: Propeller
+    100028: prophub_spin001
+    100030: Rear Gear
+    100032: Rear Wheel
+    100034: Right Tail
+    100036: Right Wing
+    100038: Rudder
+    100040: //RootNode
+    100042: wheel_left
+    100044: wheel_right
+    400000: alieron_left
+    400002: alieron_right
+    400004: Body
+    400006: cockpitcage
+    400008: cutout_left
+    400010: cutout_right
+    400012: exhaust
+    400014: flap_left
+    400016: flap_right
+    400018: Left Tail
+    400020: Left Wing
+    400022: Pitch
+    400024: prop_spin
+    400026: Propeller
+    400028: prophub_spin001
+    400030: Rear Gear
+    400032: Rear Wheel
+    400034: Right Tail
+    400036: Right Wing
+    400038: Rudder
+    400040: //RootNode
+    400042: wheel_left
+    400044: wheel_right
+    2300000: alieron_left
+    2300002: alieron_right
+    2300004: Body
+    2300006: cockpitcage
+    2300008: cutout_left
+    2300010: cutout_right
+    2300012: exhaust
+    2300014: flap_left
+    2300016: flap_right
+    2300018: Left Tail
+    2300020: Left Wing
+    2300022: Pitch
+    2300024: prop_spin
+    2300026: Propeller
+    2300028: prophub_spin001
+    2300030: Rear Gear
+    2300032: Rear Wheel
+    2300034: Right Tail
+    2300036: Right Wing
+    2300038: Rudder
+    2300040: wheel_left
+    2300042: wheel_right
+    3300000: alieron_left
+    3300002: alieron_right
+    3300004: Body
+    3300006: cockpitcage
+    3300008: cutout_left
+    3300010: cutout_right
+    3300012: exhaust
+    3300014: flap_left
+    3300016: flap_right
+    3300018: Left Tail
+    3300020: Left Wing
+    3300022: Pitch
+    3300024: prop_spin
+    3300026: Propeller
+    3300028: prophub_spin001
+    3300030: Rear Gear
+    3300032: Rear Wheel
+    3300034: Right Tail
+    3300036: Right Wing
+    3300038: Rudder
+    3300040: wheel_left
+    3300042: wheel_right
+    4300000: cockpitcage
+    4300002: Rear Gear
+    4300004: Rear Wheel
+    4300006: flap_right
+    4300008: flap_left
+    4300010: alieron_right
+    4300012: alieron_left
+    4300014: exhaust
+    4300016: Pitch
+    4300018: Rudder
+    4300020: prop_spin
+    4300022: Propeller
+    4300024: cutout_right
+    4300026: wheel_right
+    4300028: cutout_left
+    4300030: wheel_left
+    4300032: Body
+    4300034: prophub_spin001
+    4300036: Left Wing
+    4300038: Right Wing
+    4300040: Left Tail
+    4300042: Right Tail
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.84
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

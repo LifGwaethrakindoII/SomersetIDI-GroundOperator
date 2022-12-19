@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: b6127bc750662e041b27414c232ca92f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: object00
+    100002: object01
+    100004: object02
+    100006: object03
+    100008: object04
+    100010: object05
+    100012: object06
+    100014: object07
+    100016: object08
+    100018: object09
+    100020: object10
+    100022: object11
+    100024: object13
+    100026: object14
+    100028: object15
+    100030: object16
+    100032: object17
+    100034: object18
+    100036: object19
+    100038: object20
+    100040: object21
+    100042: object22
+    100044: object23
+    100046: object24
+    100048: object25
+    100050: object26
+    100052: object27
+    100054: object28
+    100056: object29
+    100058: object30
+    100060: object31
+    100062: object33
+    100064: object34
+    100066: object35
+    100068: object36
+    100070: object37
+    100072: object38
+    100074: object39
+    100076: object40
+    100078: object41
+    100080: object42
+    100082: object43
+    100084: object44
+    100086: object45
+    100088: object46
+    100090: //RootNode
+    400000: object00
+    400002: object01
+    400004: object02
+    400006: object03
+    400008: object04
+    400010: object05
+    400012: object06
+    400014: object07
+    400016: object08
+    400018: object09
+    400020: object10
+    400022: object11
+    400024: object13
+    400026: object14
+    400028: object15
+    400030: object16
+    400032: object17
+    400034: object18
+    400036: object19
+    400038: object20
+    400040: object21
+    400042: object22
+    400044: object23
+    400046: object24
+    400048: object25
+    400050: object26
+    400052: object27
+    400054: object28
+    400056: object29
+    400058: object30
+    400060: object31
+    400062: object33
+    400064: object34
+    400066: object35
+    400068: object36
+    400070: object37
+    400072: object38
+    400074: object39
+    400076: object40
+    400078: object41
+    400080: object42
+    400082: object43
+    400084: object44
+    400086: object45
+    400088: object46
+    400090: //RootNode
+    2100000: 'Material #1128'
+    2100002: 'Material #1129'
+    2100004: 'Material #1130'
+    2100006: 'Material #1131'
+    2100008: 'Material #1134'
+    2100010: 'Material #1135'
+    2100012: 'Material #1136'
+    2100014: 'Material #1137'
+    2100016: 'Material #1138'
+    2100018: 'Material #1139'
+    2100020: 'Material #1140'
+    2100022: 'Material #1141'
+    2100024: lambert1
+    2100026: 'Material #1142'
+    2100028: 'Material #1143'
+    2300000: object00
+    2300002: object01
+    2300004: object02
+    2300006: object03
+    2300008: object04
+    2300010: object05
+    2300012: object06
+    2300014: object07
+    2300016: object08
+    2300018: object09
+    2300020: object10
+    2300022: object11
+    2300024: object13
+    2300026: object14
+    2300028: object15
+    2300030: object16
+    2300032: object17
+    2300034: object18
+    2300036: object19
+    2300038: object20
+    2300040: object21
+    2300042: object22
+    2300044: object23
+    2300046: object24
+    2300048: object25
+    2300050: object26
+    2300052: object27
+    2300054: object28
+    2300056: object29
+    2300058: object30
+    2300060: object31
+    2300062: object33
+    2300064: object34
+    2300066: object35
+    2300068: object36
+    2300070: object37
+    2300072: object38
+    2300074: object39
+    2300076: object40
+    2300078: object41
+    2300080: object42
+    2300082: object43
+    2300084: object44
+    2300086: object45
+    2300088: object46
+    3300000: object00
+    3300002: object01
+    3300004: object02
+    3300006: object03
+    3300008: object04
+    3300010: object05
+    3300012: object06
+    3300014: object07
+    3300016: object08
+    3300018: object09
+    3300020: object10
+    3300022: object11
+    3300024: object13
+    3300026: object14
+    3300028: object15
+    3300030: object16
+    3300032: object17
+    3300034: object18
+    3300036: object19
+    3300038: object20
+    3300040: object21
+    3300042: object22
+    3300044: object23
+    3300046: object24
+    3300048: object25
+    3300050: object26
+    3300052: object27
+    3300054: object28
+    3300056: object29
+    3300058: object30
+    3300060: object31
+    3300062: object33
+    3300064: object34
+    3300066: object35
+    3300068: object36
+    3300070: object37
+    3300072: object38
+    3300074: object39
+    3300076: object40
+    3300078: object41
+    3300080: object42
+    3300082: object43
+    3300084: object44
+    3300086: object45
+    3300088: object46
+    4300000: object00
+    4300002: object01
+    4300004: object02
+    4300006: object03
+    4300008: object04
+    4300010: object05
+    4300012: object06
+    4300014: object07
+    4300016: object08
+    4300018: object09
+    4300020: object10
+    4300022: object11
+    4300024: object13
+    4300026: object14
+    4300028: object15
+    4300030: object16
+    4300032: object17
+    4300034: object18
+    4300036: object19
+    4300038: object20
+    4300040: object21
+    4300042: object22
+    4300044: object23
+    4300046: object24
+    4300048: object25
+    4300050: object26
+    4300052: object27
+    4300054: object28
+    4300056: object29
+    4300058: object30
+    4300060: object31
+    4300062: object33
+    4300064: object34
+    4300066: object35
+    4300068: object36
+    4300070: object37
+    4300072: object38
+    4300074: object39
+    4300076: object40
+    4300078: object41
+    4300080: object42
+    4300082: object43
+    4300084: object44
+    4300086: object45
+    4300088: object46
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

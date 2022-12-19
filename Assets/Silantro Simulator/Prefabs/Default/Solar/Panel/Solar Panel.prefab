@@ -1,0 +1,691 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1915965560069294}
+  m_IsPrefabAsset: 1
+--- !u!1 &1028815933373090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4822728721092886}
+  - component: {fileID: 65316658871364496}
+  - component: {fileID: 114056803346740204}
+  m_Layer: 0
+  m_Name: Solar Module 7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1080750110843762
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4654510332248444}
+  - component: {fileID: 65057219033047444}
+  - component: {fileID: 114310187036357660}
+  m_Layer: 0
+  m_Name: Solar Module 5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1102909759814898
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4668367112532940}
+  - component: {fileID: 65853722618557378}
+  - component: {fileID: 114305736192132394}
+  m_Layer: 0
+  m_Name: Solar Module 8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1233963329726600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4697385163602974}
+  - component: {fileID: 65612029041685664}
+  - component: {fileID: 114729057762584092}
+  m_Layer: 0
+  m_Name: Solar Module 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1580641659587206
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4066038130191096}
+  - component: {fileID: 65276454509697938}
+  - component: {fileID: 114119523684058000}
+  m_Layer: 0
+  m_Name: Solar Module 6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1797914200874836
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4403007419562762}
+  - component: {fileID: 65375472931595374}
+  - component: {fileID: 114199359777597356}
+  m_Layer: 0
+  m_Name: Solar Module 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1891416100939974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4078710450191906}
+  - component: {fileID: 65724060095762392}
+  - component: {fileID: 114107418444763720}
+  m_Layer: 0
+  m_Name: Solar Module 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1915965560069294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4077703854975214}
+  - component: {fileID: 114526855751433256}
+  m_Layer: 0
+  m_Name: Solar Panel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1941136857109386
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4951634868572346}
+  - component: {fileID: 65441562033977240}
+  - component: {fileID: 114211705903104460}
+  m_Layer: 0
+  m_Name: Solar Module
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4066038130191096
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1580641659587206}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.6679993, y: 0, z: -0.55908203}
+  m_LocalScale: {x: 1, y: 0.09053315, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4077703854975214}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4077703854975214
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1915965560069294}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4951634868572346}
+  - {fileID: 4403007419562762}
+  - {fileID: 4078710450191906}
+  - {fileID: 4697385163602974}
+  - {fileID: 4654510332248444}
+  - {fileID: 4066038130191096}
+  - {fileID: 4822728721092886}
+  - {fileID: 4668367112532940}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4078710450191906
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1891416100939974}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.53170776, y: 0, z: 0.5488281}
+  m_LocalScale: {x: 1, y: 0.2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4077703854975214}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4403007419562762
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1797914200874836}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.5720215, y: 0, z: 0.54296875}
+  m_LocalScale: {x: 1, y: 0.2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4077703854975214}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4654510332248444
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1080750110843762}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.6710205, y: 0, z: 0.5419922}
+  m_LocalScale: {x: 1, y: 0.2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4077703854975214}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4668367112532940
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1102909759814898}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.7580261, y: 0, z: -0.55908203}
+  m_LocalScale: {x: 1, y: 0.2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4077703854975214}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4697385163602974
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1233963329726600}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.56900024, y: 0, z: -0.55615234}
+  m_LocalScale: {x: 1, y: 0.2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4077703854975214}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4822728721092886
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1028815933373090}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.7610168, y: 0, z: 0.5419922}
+  m_LocalScale: {x: 1, y: 0.2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4077703854975214}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4951634868572346
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1941136857109386}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.53170776, y: 0, z: -0.54907227}
+  m_LocalScale: {x: 1, y: 0.2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4077703854975214}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &65057219033047444
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1080750110843762}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.2, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65276454509697938
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1580641659587206}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.2, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65316658871364496
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1028815933373090}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.2, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65375472931595374
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1797914200874836}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.2, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65441562033977240
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1941136857109386}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.2, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65612029041685664
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1233963329726600}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.2, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65724060095762392
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1891416100939974}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.2, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!65 &65853722618557378
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1102909759814898}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.2, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &114056803346740204
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1028815933373090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef24d4ba558a2f4c9aab57dde6682ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moduleLength: 1
+  moduleWidth: 1
+  moduleArea: 1
+  terminalVoltage: 3.4055552
+  terminalCurrent: 0.93888885
+  terminalPower: 3.1974378
+  solarCell: {fileID: 114027819283154076, guid: a4c1057cb35313b48ba5252f62c760d5,
+    type: 2}
+  cellVoltage: 0.2128472
+  cellCurrent: 0.93888885
+  cellCount: 16
+  cellLength: 0.25
+  cellWidth: 0.25
+  cellArea: 0.0625
+  idealCellArea: 0.18
+  superlation: 0.3472222
+  sunCenter: {fileID: 0}
+  silantroColor: {r: 1, g: 0.22794116, b: 0.22794116, a: 0.459}
+  connectionType: 1
+  incidentRadiation: 0
+  shape: 0
+  panelSections: 4
+  lengthSections: 4
+  widthSections: 5
+--- !u!114 &114107418444763720
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1891416100939974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef24d4ba558a2f4c9aab57dde6682ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moduleLength: 1
+  moduleWidth: 1
+  moduleArea: 1
+  terminalVoltage: 3.4055552
+  terminalCurrent: 0.93888885
+  terminalPower: 3.1974378
+  solarCell: {fileID: 114027819283154076, guid: a4c1057cb35313b48ba5252f62c760d5,
+    type: 2}
+  cellVoltage: 0.2128472
+  cellCurrent: 0.93888885
+  cellCount: 16
+  cellLength: 0.25
+  cellWidth: 0.25
+  cellArea: 0.0625
+  idealCellArea: 0.18
+  superlation: 0.3472222
+  sunCenter: {fileID: 0}
+  silantroColor: {r: 1, g: 0.22794116, b: 0.22794116, a: 0.459}
+  connectionType: 1
+  incidentRadiation: 0
+  shape: 0
+  panelSections: 4
+  lengthSections: 5
+  widthSections: 5
+--- !u!114 &114119523684058000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1580641659587206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef24d4ba558a2f4c9aab57dde6682ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moduleLength: 1
+  moduleWidth: 1
+  moduleArea: 1
+  terminalVoltage: 3.4055552
+  terminalCurrent: 0.7511111
+  terminalPower: 2.5579503
+  solarCell: {fileID: 114027819283154076, guid: a4c1057cb35313b48ba5252f62c760d5,
+    type: 2}
+  cellVoltage: 0.17027776
+  cellCurrent: 0.7511111
+  cellCount: 20
+  cellLength: 0.25
+  cellWidth: 0.2
+  cellArea: 0.05
+  idealCellArea: 0.18
+  superlation: 0.27777776
+  sunCenter: {fileID: 0}
+  silantroColor: {r: 1, g: 0.22794116, b: 0.22794116, a: 0.459}
+  connectionType: 1
+  incidentRadiation: 0
+  shape: 1
+  panelSections: 5
+  lengthSections: 4
+  widthSections: 5
+--- !u!114 &114199359777597356
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1797914200874836}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef24d4ba558a2f4c9aab57dde6682ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moduleLength: 0.99999994
+  moduleWidth: 0.99999994
+  moduleArea: 0.9999999
+  terminalVoltage: 3.405555
+  terminalCurrent: 0.9388888
+  terminalPower: 3.1974375
+  solarCell: {fileID: 114027819283154076, guid: a4c1057cb35313b48ba5252f62c760d5,
+    type: 2}
+  cellVoltage: 0.21284719
+  cellCurrent: 0.9388888
+  cellCount: 16
+  cellLength: 0.24999999
+  cellWidth: 0.24999999
+  cellArea: 0.062499993
+  idealCellArea: 0.18
+  superlation: 0.34722218
+  sunCenter: {fileID: 0}
+  silantroColor: {r: 1, g: 0.22794116, b: 0.22794116, a: 0.459}
+  connectionType: 1
+  incidentRadiation: 0
+  shape: 0
+  panelSections: 4
+  lengthSections: 5
+  widthSections: 5
+--- !u!114 &114211705903104460
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1941136857109386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef24d4ba558a2f4c9aab57dde6682ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moduleLength: 1
+  moduleWidth: 1
+  moduleArea: 1
+  terminalVoltage: 3.4055552
+  terminalCurrent: 0.93888885
+  terminalPower: 3.1974378
+  solarCell: {fileID: 114027819283154076, guid: a4c1057cb35313b48ba5252f62c760d5,
+    type: 2}
+  cellVoltage: 0.2128472
+  cellCurrent: 0.93888885
+  cellCount: 16
+  cellLength: 0.25
+  cellWidth: 0.25
+  cellArea: 0.0625
+  idealCellArea: 0.18
+  superlation: 0.3472222
+  sunCenter: {fileID: 0}
+  silantroColor: {r: 1, g: 0.22794116, b: 0.22794116, a: 0.459}
+  connectionType: 1
+  incidentRadiation: 0
+  shape: 0
+  panelSections: 4
+  lengthSections: 5
+  widthSections: 5
+--- !u!114 &114305736192132394
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1102909759814898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef24d4ba558a2f4c9aab57dde6682ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moduleLength: 1
+  moduleWidth: 1
+  moduleArea: 1
+  terminalVoltage: 3.4055552
+  terminalCurrent: 0.93888885
+  terminalPower: 3.1974378
+  solarCell: {fileID: 114027819283154076, guid: a4c1057cb35313b48ba5252f62c760d5,
+    type: 2}
+  cellVoltage: 0.2128472
+  cellCurrent: 0.93888885
+  cellCount: 16
+  cellLength: 0.25
+  cellWidth: 0.25
+  cellArea: 0.0625
+  idealCellArea: 0.18
+  superlation: 0.3472222
+  sunCenter: {fileID: 0}
+  silantroColor: {r: 1, g: 0.22794116, b: 0.22794116, a: 0.459}
+  connectionType: 1
+  incidentRadiation: 0
+  shape: 0
+  panelSections: 4
+  lengthSections: 7
+  widthSections: 5
+--- !u!114 &114310187036357660
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1080750110843762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef24d4ba558a2f4c9aab57dde6682ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moduleLength: 1
+  moduleWidth: 1
+  moduleArea: 1
+  terminalVoltage: 3.4055552
+  terminalCurrent: 0.93888885
+  terminalPower: 3.1974378
+  solarCell: {fileID: 114027819283154076, guid: a4c1057cb35313b48ba5252f62c760d5,
+    type: 2}
+  cellVoltage: 0.2128472
+  cellCurrent: 0.93888885
+  cellCount: 16
+  cellLength: 0.25
+  cellWidth: 0.25
+  cellArea: 0.0625
+  idealCellArea: 0.18
+  superlation: 0.3472222
+  sunCenter: {fileID: 0}
+  silantroColor: {r: 1, g: 0.22794116, b: 0.22794116, a: 0.459}
+  connectionType: 1
+  incidentRadiation: 0
+  shape: 0
+  panelSections: 4
+  lengthSections: 7
+  widthSections: 5
+--- !u!114 &114526855751433256
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1915965560069294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfef9253ca2924941bbc0b89f56fb5b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  seriesModules:
+  - {fileID: 114211705903104460}
+  - {fileID: 114199359777597356}
+  - {fileID: 114056803346740204}
+  parallelModules:
+  - {fileID: 114107418444763720}
+  - {fileID: 114729057762584092}
+  - {fileID: 114310187036357660}
+  - {fileID: 114119523684058000}
+  - {fileID: 114305736192132394}
+  connectionType: 2
+  voltage: 13.622221
+  current: 5.4455557
+  power: 74.180565
+--- !u!114 &114729057762584092
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1233963329726600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef24d4ba558a2f4c9aab57dde6682ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moduleLength: 0.99999994
+  moduleWidth: 0.99999994
+  moduleArea: 0.9999999
+  terminalVoltage: 3.405555
+  terminalCurrent: 0.9388888
+  terminalPower: 3.1974375
+  solarCell: {fileID: 114027819283154076, guid: a4c1057cb35313b48ba5252f62c760d5,
+    type: 2}
+  cellVoltage: 0.21284719
+  cellCurrent: 0.9388888
+  cellCount: 16
+  cellLength: 0.24999999
+  cellWidth: 0.24999999
+  cellArea: 0.062499993
+  idealCellArea: 0.18
+  superlation: 0.34722218
+  sunCenter: {fileID: 0}
+  silantroColor: {r: 1, g: 0.22794116, b: 0.22794116, a: 0.459}
+  connectionType: 1
+  incidentRadiation: 0
+  shape: 0
+  panelSections: 4
+  lengthSections: 5
+  widthSections: 5

@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d1f1fc7a2143744bb67fd006c58279a, type: 3}
+  m_Name: Data_Application_0
+  m_EditorClassIdentifier: 
+  _A380: {fileID: 1528598030057712, guid: 017f6757981674d41b5da1610c79d141, type: 2}
+  _A320: {fileID: 1664195320810616, guid: 602fc45467e49974e843fc14cd4b0187, type: 2}
+  _Boeing787: {fileID: 1349894313191142, guid: 45b935b3fcc7a3f42b1e814bd03ff94f, type: 2}
+  _startingPoint:
+    _position: {x: 5, y: 9, z: 210}
+    _eulerRotation: {x: 0, y: 180, z: 0}
+    _rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+    _scale: {x: 1, y: 1, z: 1}
+  _classifications:
+  - command: 2050
+    waypoints:
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: -1, z: 0.65}
+        _toleranceRadius: 0.55
+      _rightWaypoint:
+        _offsetPoint: {x: 0.5, y: -1, z: 0.65}
+        _toleranceRadius: 0.55
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: -0.2, z: 0.7}
+        _toleranceRadius: 0.55
+      _rightWaypoint:
+        _offsetPoint: {x: 0.5, y: -0.2, z: 0.7}
+        _toleranceRadius: 0.55
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: 0.5, z: 0.1}
+        _toleranceRadius: 0.55
+      _rightWaypoint:
+        _offsetPoint: {x: 0.5, y: 0.5, z: 0.1}
+        _toleranceRadius: 0.55
+  - command: 2053
+    waypoints:
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: 0, z: 0.5}
+        _toleranceRadius: 1
+      _rightWaypoint:
+        _offsetPoint: {x: 0.5, y: 0, z: 0.5}
+        _toleranceRadius: 1
+    - _leftWaypoint:
+        _offsetPoint: {x: 0.6, y: 0.5, z: 0.2}
+        _toleranceRadius: 0.6
+      _rightWaypoint:
+        _offsetPoint: {x: -0.6, y: 0.5, z: 0.2}
+        _toleranceRadius: 0.6
+  - command: 130
+    waypoints:
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: -0.85, z: 0.6}
+        _toleranceRadius: 0.7
+      _rightWaypoint:
+        _offsetPoint: {x: 0.7, y: -0.85, z: 0.6}
+        _toleranceRadius: 0.8
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: 0.1, z: 0.8}
+        _toleranceRadius: 0.7
+      _rightWaypoint:
+        _offsetPoint: {x: 0.7, y: -0.85, z: 0.6}
+        _toleranceRadius: 0.8
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: 0.5, z: -0.2}
+        _toleranceRadius: 0.8
+      _rightWaypoint:
+        _offsetPoint: {x: 0.7, y: -0.85, z: 0.6}
+        _toleranceRadius: 0.8
+  - command: 132
+    waypoints:
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: -0.85, z: 0.6}
+        _toleranceRadius: 0.8
+      _rightWaypoint:
+        _offsetPoint: {x: 0.7, y: -0.85, z: 0.6}
+        _toleranceRadius: 0.7
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: -0.85, z: 0.6}
+        _toleranceRadius: 0.8
+      _rightWaypoint:
+        _offsetPoint: {x: 0.7, y: 0.1, z: 0.8}
+        _toleranceRadius: 0.7
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: -0.85, z: 0.6}
+        _toleranceRadius: 0.8
+      _rightWaypoint:
+        _offsetPoint: {x: 0.7, y: 0.5, z: -0.2}
+        _toleranceRadius: 0.8
+  - command: 1024
+    waypoints:
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: -0.3, z: 0.3}
+        _toleranceRadius: 0.45
+      _rightWaypoint:
+        _offsetPoint: {x: 0.5, y: -0.3, z: 0.3}
+        _toleranceRadius: 0.45
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: -0.9, z: 0.3}
+        _toleranceRadius: 0.45
+      _rightWaypoint:
+        _offsetPoint: {x: 0.5, y: -0.9, z: 0.3}
+        _toleranceRadius: 0.45
+    - _leftWaypoint:
+        _offsetPoint: {x: -0.5, y: -0.3, z: 0.3}
+        _toleranceRadius: 0.45
+      _rightWaypoint:
+        _offsetPoint: {x: 0.5, y: -0.3, z: 0.3}
+        _toleranceRadius: 0.45
+  _dataName: Data_Application_0
+  _color: {r: 0.99381757, g: 1, b: 0, a: 1}
+  _index: 4
+  _toggle: 1

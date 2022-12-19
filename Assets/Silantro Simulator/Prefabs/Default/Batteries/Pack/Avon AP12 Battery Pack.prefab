@@ -1,0 +1,3225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1590482926756512}
+  m_IsPrefabAsset: 1
+--- !u!1 &1032590859361522
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4864214083795184}
+  - component: {fileID: 114092416656357708}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (41)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1063292690862866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4765533615856658}
+  - component: {fileID: 114918685229176318}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (13)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1068918116442776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4411292697749370}
+  - component: {fileID: 114673486961421082}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1069762048790148
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4334484317016438}
+  - component: {fileID: 114555717780790168}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (22)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1083789464216662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4381976299319860}
+  - component: {fileID: 114184860842520054}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (14)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1084576937978862
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4200768135342786}
+  - component: {fileID: 114647992237527854}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (34)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1100463527366998
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4313398406379122}
+  - component: {fileID: 114865478583329346}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (32)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1107415611610628
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4474116882494314}
+  - component: {fileID: 114751118145231006}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (24)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1107849523001466
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4274847850377856}
+  - component: {fileID: 114714331158958714}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (31)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1110042052127420
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4091420190183892}
+  - component: {fileID: 114859163467268554}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (29)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1187550395220958
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4781743635771004}
+  - component: {fileID: 114147269447663556}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (15)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1201367687030910
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4073970522480228}
+  - component: {fileID: 114124234925383134}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1278440784587948
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4713251809216628}
+  - component: {fileID: 114404383544486650}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (30)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1286248177667278
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4910702774501996}
+  - component: {fileID: 114838616620363140}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (47)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1402466255809962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4259614466318098}
+  - component: {fileID: 114388889138294950}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (21)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1413846827422130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4685117695729624}
+  - component: {fileID: 114086406437253348}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1435137944184356
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4434715787402830}
+  - component: {fileID: 114855803180235344}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1457444147118436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4750493768487080}
+  - component: {fileID: 114239931034879216}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (38)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1463485182020208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4618798128995910}
+  - component: {fileID: 114144840412186002}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (23)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1464052391077206
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4597289246642586}
+  - component: {fileID: 114754867168357288}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (50)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1468363633054036
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4205413281857214}
+  - component: {fileID: 114807741631293578}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1474118491360842
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4575129730603014}
+  - component: {fileID: 114705064103556628}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (44)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1487042242294486
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4005167973813126}
+  - component: {fileID: 114258360028966960}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (45)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1498163903762618
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4265440653588144}
+  - component: {fileID: 114602074510484350}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (43)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1548063988716850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4745208253369470}
+  - component: {fileID: 114735814805257920}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (27)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1550140469855876
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4338498256218500}
+  - component: {fileID: 114712231506487338}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (28)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1584196585780560
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4993689610844436}
+  - component: {fileID: 114252809439153448}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (37)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1590009851889764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4221961163542936}
+  - component: {fileID: 114217802748526480}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (19)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1590482926756512
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4649976779669420}
+  - component: {fileID: 114191270873791566}
+  m_Layer: 0
+  m_Name: Avon AP12 Battery Pack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1618209907888890
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4600037054337216}
+  - component: {fileID: 114826897388187736}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (25)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1629470716109568
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4821521300894822}
+  - component: {fileID: 114662602878976866}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (17)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1648673952362212
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4899914926624856}
+  - component: {fileID: 114140529913763092}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (20)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1691270965519918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4894282704693898}
+  - component: {fileID: 114883334956819530}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (0)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1716152386310500
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4636015833181602}
+  - component: {fileID: 114930365400645034}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (51)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1734091170502690
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4286590221375866}
+  - component: {fileID: 114876187375052622}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (48)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1762349543703986
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4499810796182540}
+  - component: {fileID: 114237421461650358}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1772699132755092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4353586249345970}
+  - component: {fileID: 114854630833969204}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (36)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1778392737074040
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4483410025417908}
+  - component: {fileID: 114014897937688728}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (33)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1782177325736640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4987795907742906}
+  - component: {fileID: 114296882345550628}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (16)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1788728642837864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4542953034040060}
+  - component: {fileID: 114505877917914232}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (42)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1789307854855058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4377419542742848}
+  - component: {fileID: 114692395532565772}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (18)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1799726312344646
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4913312523747824}
+  - component: {fileID: 114011935785411130}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1804700128225734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4406009898418534}
+  - component: {fileID: 114376962782216642}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1813187879669938
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4520747675540554}
+  - component: {fileID: 114952512135137036}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1824014604161608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4775422478876966}
+  - component: {fileID: 114577791183196632}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (49)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1825287437143160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4281130817129628}
+  - component: {fileID: 114731464224508936}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1839764066265704
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4550660495272378}
+  - component: {fileID: 114219651699335160}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (39)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1843501456755458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4469196738681560}
+  - component: {fileID: 114412148344504650}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (35)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1868300417738842
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4068413378535332}
+  - component: {fileID: 114212352405281594}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (10)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1872979396368466
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4924624994477948}
+  - component: {fileID: 114436617644513900}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (40)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1910446305885922
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4273184436182692}
+  - component: {fileID: 114298656802192870}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (26)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1930787965129894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4319045681355788}
+  - component: {fileID: 114428802916935174}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (46)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1962413559775480
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4420716678292838}
+  - component: {fileID: 114317551726042054}
+  m_Layer: 0
+  m_Name: Avon AP12-24 Battery (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4005167973813126
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1487042242294486}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 45
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4068413378535332
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1868300417738842}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4073970522480228
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1201367687030910}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4091420190183892
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1110042052127420}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4200768135342786
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1084576937978862}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 34
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4205413281857214
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1468363633054036}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4221961163542936
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1590009851889764}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4259614466318098
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1402466255809962}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4265440653588144
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1498163903762618}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 43
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4273184436182692
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1910446305885922}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4274847850377856
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1107849523001466}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 31
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4281130817129628
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1825287437143160}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4286590221375866
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1734091170502690}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 48
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4313398406379122
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1100463527366998}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4319045681355788
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1930787965129894}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 46
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4334484317016438
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1069762048790148}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4338498256218500
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1550140469855876}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4353586249345970
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1772699132755092}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 36
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4377419542742848
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1789307854855058}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4381976299319860
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1083789464216662}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4406009898418534
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1804700128225734}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4411292697749370
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1068918116442776}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4420716678292838
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1962413559775480}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4434715787402830
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1435137944184356}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4469196738681560
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1843501456755458}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 35
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4474116882494314
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1107415611610628}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 24
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4483410025417908
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1778392737074040}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 33
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4499810796182540
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1762349543703986}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4520747675540554
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1813187879669938}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4542953034040060
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1788728642837864}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 42
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4550660495272378
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1839764066265704}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 39
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4575129730603014
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1474118491360842}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 44
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4597289246642586
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1464052391077206}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 50
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4600037054337216
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1618209907888890}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 25
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4618798128995910
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1463485182020208}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4636015833181602
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1716152386310500}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 51
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4649976779669420
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1590482926756512}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4894282704693898}
+  - {fileID: 4205413281857214}
+  - {fileID: 4406009898418534}
+  - {fileID: 4411292697749370}
+  - {fileID: 4434715787402830}
+  - {fileID: 4913312523747824}
+  - {fileID: 4281130817129628}
+  - {fileID: 4520747675540554}
+  - {fileID: 4685117695729624}
+  - {fileID: 4073970522480228}
+  - {fileID: 4068413378535332}
+  - {fileID: 4420716678292838}
+  - {fileID: 4499810796182540}
+  - {fileID: 4765533615856658}
+  - {fileID: 4381976299319860}
+  - {fileID: 4781743635771004}
+  - {fileID: 4987795907742906}
+  - {fileID: 4821521300894822}
+  - {fileID: 4377419542742848}
+  - {fileID: 4221961163542936}
+  - {fileID: 4899914926624856}
+  - {fileID: 4259614466318098}
+  - {fileID: 4334484317016438}
+  - {fileID: 4618798128995910}
+  - {fileID: 4474116882494314}
+  - {fileID: 4600037054337216}
+  - {fileID: 4273184436182692}
+  - {fileID: 4745208253369470}
+  - {fileID: 4338498256218500}
+  - {fileID: 4091420190183892}
+  - {fileID: 4713251809216628}
+  - {fileID: 4274847850377856}
+  - {fileID: 4313398406379122}
+  - {fileID: 4483410025417908}
+  - {fileID: 4200768135342786}
+  - {fileID: 4469196738681560}
+  - {fileID: 4353586249345970}
+  - {fileID: 4993689610844436}
+  - {fileID: 4750493768487080}
+  - {fileID: 4550660495272378}
+  - {fileID: 4924624994477948}
+  - {fileID: 4864214083795184}
+  - {fileID: 4542953034040060}
+  - {fileID: 4265440653588144}
+  - {fileID: 4575129730603014}
+  - {fileID: 4005167973813126}
+  - {fileID: 4319045681355788}
+  - {fileID: 4910702774501996}
+  - {fileID: 4286590221375866}
+  - {fileID: 4775422478876966}
+  - {fileID: 4597289246642586}
+  - {fileID: 4636015833181602}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4685117695729624
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1413846827422130}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4713251809216628
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1278440784587948}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 30
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4745208253369470
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1548063988716850}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 27
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4750493768487080
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1457444147118436}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 38
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4765533615856658
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1063292690862866}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4775422478876966
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1824014604161608}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 49
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4781743635771004
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1187550395220958}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4821521300894822
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629470716109568}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4864214083795184
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1032590859361522}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 41
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4894282704693898
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1691270965519918}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4899914926624856
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1648673952362212}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4910702774501996
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1286248177667278}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 47
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4913312523747824
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1799726312344646}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4924624994477948
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1872979396368466}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 40
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4987795907742906
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1782177325736640}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4993689610844436
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1584196585780560}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4649976779669420}
+  m_RootOrder: 37
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114011935785411130
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1799726312344646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114014897937688728
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1778392737074040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114086406437253348
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1413846827422130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114092416656357708
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1032590859361522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114124234925383134
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1201367687030910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114140529913763092
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1648673952362212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114144840412186002
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1463485182020208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114147269447663556
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1187550395220958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114184860842520054
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1083789464216662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114191270873791566
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1590482926756512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8f3656dfd883445a58ab883bf0396c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  seriesBatteries:
+  - {fileID: 114883334956819530}
+  - {fileID: 114807741631293578}
+  - {fileID: 114376962782216642}
+  - {fileID: 114673486961421082}
+  - {fileID: 114855803180235344}
+  - {fileID: 114011935785411130}
+  - {fileID: 114731464224508936}
+  - {fileID: 114952512135137036}
+  - {fileID: 114086406437253348}
+  - {fileID: 114124234925383134}
+  - {fileID: 114212352405281594}
+  - {fileID: 114317551726042054}
+  - {fileID: 114237421461650358}
+  - {fileID: 114918685229176318}
+  - {fileID: 114184860842520054}
+  - {fileID: 114147269447663556}
+  - {fileID: 114296882345550628}
+  - {fileID: 114662602878976866}
+  - {fileID: 114692395532565772}
+  - {fileID: 114217802748526480}
+  - {fileID: 114140529913763092}
+  - {fileID: 114388889138294950}
+  - {fileID: 114555717780790168}
+  - {fileID: 114144840412186002}
+  - {fileID: 114751118145231006}
+  - {fileID: 114826897388187736}
+  - {fileID: 114298656802192870}
+  - {fileID: 114735814805257920}
+  - {fileID: 114712231506487338}
+  - {fileID: 114859163467268554}
+  - {fileID: 114404383544486650}
+  - {fileID: 114714331158958714}
+  - {fileID: 114865478583329346}
+  - {fileID: 114014897937688728}
+  - {fileID: 114647992237527854}
+  - {fileID: 114412148344504650}
+  - {fileID: 114854630833969204}
+  - {fileID: 114252809439153448}
+  - {fileID: 114239931034879216}
+  - {fileID: 114219651699335160}
+  - {fileID: 114436617644513900}
+  - {fileID: 114092416656357708}
+  - {fileID: 114505877917914232}
+  - {fileID: 114602074510484350}
+  - {fileID: 114705064103556628}
+  - {fileID: 114258360028966960}
+  voltage: 0
+  current: 0
+  capacity: 1104
+  availablePower: 0
+  Motor: {fileID: 0}
+--- !u!114 &114212352405281594
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1868300417738842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114217802748526480
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1590009851889764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114219651699335160
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1839764066265704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114237421461650358
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1762349543703986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114239931034879216
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1457444147118436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114252809439153448
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1584196585780560}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114258360028966960
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1487042242294486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114296882345550628
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1782177325736640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114298656802192870
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1910446305885922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114317551726042054
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1962413559775480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114376962782216642
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1804700128225734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114388889138294950
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1402466255809962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114404383544486650
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1278440784587948}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114412148344504650
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1843501456755458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114428802916935174
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1930787965129894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114436617644513900
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1872979396368466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114505877917914232
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1788728642837864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114555717780790168
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1069762048790148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114577791183196632
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1824014604161608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114602074510484350
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1498163903762618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114647992237527854
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1084576937978862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114662602878976866
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629470716109568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114673486961421082
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1068918116442776}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114692395532565772
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1789307854855058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114705064103556628
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1474118491360842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114712231506487338
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1550140469855876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114714331158958714
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1107849523001466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114731464224508936
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1825287437143160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114735814805257920
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1548063988716850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114751118145231006
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1107415611610628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114754867168357288
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1464052391077206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114807741631293578
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1468363633054036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114826897388187736
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1618209907888890}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114838616620363140
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1286248177667278}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114854630833969204
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1772699132755092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114855803180235344
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1435137944184356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114859163467268554
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1110042052127420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114865478583329346
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1100463527366998}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114876187375052622
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1734091170502690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114883334956819530
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1691270965519918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114918685229176318
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1063292690862866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114930365400645034
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1716152386310500}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0
+--- !u!114 &114952512135137036
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1813187879669938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b7f41eaba524e040a78aa350338873f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  batteryType: 0
+  cellCount: 6
+  nominalCellVoltage: 2.1
+  dischargeCellVoltage: 1.8
+  currentCellVolage: 0
+  chargeEfficiency: 50
+  dischargeEfficiency: 90
+  actualVoltage: 0
+  capacity: 24
+  standbyDischargeCurrent: 0.153
+  outputVoltage: 0
+  outputCurrent: 0
+  chargingCurrent: 0
+  BatteryLow: 0
+  BatteryFull: 0
+  state: 1
+  currentCapacity: 0
+  timeRemaining: 0
+  batteryLevel: 0

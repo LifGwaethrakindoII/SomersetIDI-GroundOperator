@@ -1,0 +1,9 @@
+Library/
+Temp/
+.vs/
+*.sublime-workspace
+*.sublime-project
+*.csproj
+*.sln
+Assets/Scenes/AirPlane Move Test.meta
+obj/

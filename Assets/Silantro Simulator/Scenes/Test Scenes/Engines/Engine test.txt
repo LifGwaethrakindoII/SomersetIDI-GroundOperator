@@ -1,0 +1,6 @@
+Open Scene
+F1 to start engine
+F2 to stop engine
+Num 1 to throttle up
+Num 2 to throttle down
+F12 to turn on Afterburner if available

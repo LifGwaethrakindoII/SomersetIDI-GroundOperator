@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1358928207741760}
+  m_IsPrefabAsset: 1
+--- !u!1 &1358928207741760
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4319537957011004}
+  - component: {fileID: 114445348107212756}
+  m_Layer: 0
+  m_Name: SFD081
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4319537957011004
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1358928207741760}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114445348107212756
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1358928207741760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a5400b05274be548a965373801ff835, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cellType: 0
+  mono_Si: 20
+  P_Si: 15
+  TSFC: 12
+  a_Si: 8
+  CdTe: 14.4
+  CIGS: 12
+  ConcPVC: 41
+  mono_SiVoltage: 0.613
+  P_SiVoltage: 0.602
+  TSFCVoltage: 0.593
+  a_SiVoltage: 0.523
+  CdTeVoltage: 0.596
+  CIGSVoltage: 0.54
+  ConcPVCVoltage: 0.704
+  mono_SiCurrent: 2.704
+  P_SiCurrent: 2.655
+  TSFCCurrent: 2.615
+  a_SiCurrent: 2.307
+  CdTeCurrent: 2.629
+  CIGSCurrent: 2.282
+  ConcPVCCurrent: 3.105
+  junctionVoltage: 0.613
+  junctionCurrent: 2.704
+  cellEfficiency: 20
+  cellLength: 60
+  cellWidth: 30

@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 4f52a647a39621045a3780b30aed1c15
+timeCreated: 1519827198
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Camera
+    100004: Front_Landing
+    100006: Front_Wheel
+    100008: Front_Wheel 1
+    100010: L_Elevator_01
+    100012: L_Flaps_01
+    100014: L_Landing
+    100016: L_Wheel
+    100018: Left Wing
+    100020: //RootNode
+    100022: Propeller
+    100024: R_Elevator_01
+    100026: R_Flaps_01
+    100028: R_Landing
+    100030: R_Wheel
+    100032: Right Wing
+    100034: Rudder
+    100036: Undercarriage
+    400000: Body
+    400002: Camera
+    400004: Front_Landing
+    400006: Front_Wheel
+    400008: Front_Wheel 1
+    400010: L_Elevator_01
+    400012: L_Flaps_01
+    400014: L_Landing
+    400016: L_Wheel
+    400018: Left Wing
+    400020: //RootNode
+    400022: Propeller
+    400024: R_Elevator_01
+    400026: R_Flaps_01
+    400028: R_Landing
+    400030: R_Wheel
+    400032: Right Wing
+    400034: Rudder
+    400036: Undercarriage
+    2300000: Body
+    2300002: Camera
+    2300004: Front_Landing
+    2300006: Front_Wheel
+    2300008: Front_Wheel 1
+    2300010: L_Elevator_01
+    2300012: L_Flaps_01
+    2300014: L_Landing
+    2300016: L_Wheel
+    2300018: Left Wing
+    2300020: Propeller
+    2300022: R_Elevator_01
+    2300024: R_Flaps_01
+    2300026: R_Landing
+    2300028: R_Wheel
+    2300030: Right Wing
+    2300032: Rudder
+    2300034: Undercarriage
+    3300000: Body
+    3300002: Camera
+    3300004: Front_Landing
+    3300006: Front_Wheel
+    3300008: Front_Wheel 1
+    3300010: L_Elevator_01
+    3300012: L_Flaps_01
+    3300014: L_Landing
+    3300016: L_Wheel
+    3300018: Left Wing
+    3300020: Propeller
+    3300022: R_Elevator_01
+    3300024: R_Flaps_01
+    3300026: R_Landing
+    3300028: R_Wheel
+    3300030: Right Wing
+    3300032: Rudder
+    3300034: Undercarriage
+    4300000: Body
+    4300002: Propeller
+    4300004: R_Elevator_01
+    4300006: R_Flaps_01
+    4300008: L_Elevator_01
+    4300010: L_Flaps_01
+    4300012: Camera
+    4300014: Undercarriage
+    4300016: Rudder
+    4300018: Right Wing
+    4300020: Left Wing
+    4300022: R_Landing
+    4300024: R_Wheel
+    4300026: L_Landing
+    4300028: L_Wheel
+    4300030: Front_Landing
+    4300032: Front_Wheel
+    4300034: Front_Wheel
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: e8eafecb28476234ea7244c35732d395
+timeCreated: 1531308770
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Cockpit
+    100004: Front Gear
+    100006: Front Gear Door
+    100008: Front Wheel
+    100010: Left Aileron
+    100012: Left Door
+    100014: Left Elevator
+    100016: Left Gear
+    100018: Left Tail
+    100020: Left Turbine
+    100022: Left Wheel
+    100024: Left Wing
+    100026: //RootNode
+    100028: Right Aileron
+    100030: Right Door
+    100032: Right Elevator
+    100034: Right Gear
+    100036: Right Tail
+    100038: Right Turbine
+    100040: Right Wheel
+    100042: Right Wng
+    100044: Rudder
+    100046: Tail
+    100048: Yoke
+    400000: Body
+    400002: Cockpit
+    400004: Front Gear
+    400006: Front Gear Door
+    400008: Front Wheel
+    400010: Left Aileron
+    400012: Left Door
+    400014: Left Elevator
+    400016: Left Gear
+    400018: Left Tail
+    400020: Left Turbine
+    400022: Left Wheel
+    400024: Left Wing
+    400026: //RootNode
+    400028: Right Aileron
+    400030: Right Door
+    400032: Right Elevator
+    400034: Right Gear
+    400036: Right Tail
+    400038: Right Turbine
+    400040: Right Wheel
+    400042: Right Wng
+    400044: Rudder
+    400046: Tail
+    400048: Yoke
+    2300000: Body
+    2300002: Cockpit
+    2300004: Front Gear
+    2300006: Front Gear Door
+    2300008: Front Wheel
+    2300010: Left Aileron
+    2300012: Left Door
+    2300014: Left Elevator
+    2300016: Left Gear
+    2300018: Left Tail
+    2300020: Left Turbine
+    2300022: Left Wheel
+    2300024: Left Wing
+    2300026: Right Aileron
+    2300028: Right Door
+    2300030: Right Elevator
+    2300032: Right Gear
+    2300034: Right Tail
+    2300036: Right Turbine
+    2300038: Right Wheel
+    2300040: Right Wng
+    2300042: Rudder
+    2300044: Tail
+    2300046: Yoke
+    3300000: Body
+    3300002: Cockpit
+    3300004: Front Gear
+    3300006: Front Gear Door
+    3300008: Front Wheel
+    3300010: Left Aileron
+    3300012: Left Door
+    3300014: Left Elevator
+    3300016: Left Gear
+    3300018: Left Tail
+    3300020: Left Turbine
+    3300022: Left Wheel
+    3300024: Left Wing
+    3300026: Right Aileron
+    3300028: Right Door
+    3300030: Right Elevator
+    3300032: Right Gear
+    3300034: Right Tail
+    3300036: Right Turbine
+    3300038: Right Wheel
+    3300040: Right Wng
+    3300042: Rudder
+    3300044: Tail
+    3300046: Yoke
+    4300000: Cockpit
+    4300002: Body
+    4300004: Left Tail
+    4300006: Right Tail
+    4300008: Tail
+    4300010: Rudder
+    4300012: Right Elevator
+    4300014: Right Turbine
+    4300016: Right Gear
+    4300018: Right Wheel
+    4300020: Left Wing
+    4300022: Left Gear
+    4300024: Left Wheel
+    4300026: Front Gear
+    4300028: Front Wheel
+    4300030: Right Wng
+    4300032: Right Door
+    4300034: Left Door
+    4300036: Left Turbine
+    4300038: Front Gear Door
+    4300040: Left Aileron
+    4300042: Right Aileron
+    4300044: Left Elevator
+    4300046: Yoke
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 8.62
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

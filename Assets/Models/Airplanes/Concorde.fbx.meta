@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: a4742bba94f33754080f0fcda1921e47
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: brakes
+    100002: //RootNode
+    100004: concorde1
+    100006: f g_ doors
+    100008: f g_wheel
+    100010: f_gear
+    100012: flaps
+    100014: n ws_ win
+    100016: nose
+    100018: nose_w_s
+    100020: outlets
+    100022: r _gear
+    100024: rg_ doors
+    100026: rg_wheel
+    100028: turbines
+    100030: w_screen
+    100032: windows
+    400000: brakes
+    400002: //RootNode
+    400004: concorde1
+    400006: f g_ doors
+    400008: f g_wheel
+    400010: f_gear
+    400012: flaps
+    400014: n ws_ win
+    400016: nose
+    400018: nose_w_s
+    400020: outlets
+    400022: r _gear
+    400024: rg_ doors
+    400026: rg_wheel
+    400028: turbines
+    400030: w_screen
+    400032: windows
+    2100000: white_
+    2100002: white RHS
+    2100004: white LHS
+    2100006: black_
+    2100008: metal frame
+    2100010: wheel metal
+    2100012: black rubber
+    2100014: metal
+    2100016: glass
+    2100018: white  2 sided
+    2100020: outlets black
+    2300000: brakes
+    2300002: concorde1
+    2300004: f g_ doors
+    2300006: f g_wheel
+    2300008: f_gear
+    2300010: flaps
+    2300012: n ws_ win
+    2300014: nose
+    2300016: nose_w_s
+    2300018: outlets
+    2300020: r _gear
+    2300022: rg_ doors
+    2300024: rg_wheel
+    2300026: turbines
+    2300028: w_screen
+    2300030: windows
+    3300000: brakes
+    3300002: concorde1
+    3300004: f g_ doors
+    3300006: f g_wheel
+    3300008: f_gear
+    3300010: flaps
+    3300012: n ws_ win
+    3300014: nose
+    3300016: nose_w_s
+    3300018: outlets
+    3300020: r _gear
+    3300022: rg_ doors
+    3300024: rg_wheel
+    3300026: turbines
+    3300028: w_screen
+    3300030: windows
+    4300000: brakes
+    4300002: concorde1
+    4300004: f g_ doors
+    4300006: f g_wheel
+    4300008: f_gear
+    4300010: flaps
+    4300012: n ws_ win
+    4300014: nose
+    4300016: nose_w_s
+    4300018: outlets
+    4300020: r _gear
+    4300022: rg_ doors
+    4300024: rg_wheel
+    4300026: turbines
+    4300028: w_screen
+    4300030: windows
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

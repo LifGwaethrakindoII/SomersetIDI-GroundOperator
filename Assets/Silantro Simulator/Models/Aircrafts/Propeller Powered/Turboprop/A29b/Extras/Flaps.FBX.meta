@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 7d44ecd98a527a54e896517bdb84b21c
+timeCreated: 1520377529
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: aileron_l
+    100004: aileron_r
+    100006: bodyshell
+    100008: chassis
+    100010: door_dside
+    100012: elevator_l
+    100014: elevator_r
+    100016: extra_1
+    100018: //RootNode
+    100020: gear_door_
+    100022: gear_f
+    100024: gear_rl
+    100026: gear_rr
+    100028: leftEtank
+    100030: leftm
+    100032: leftpylon
+    100034: leftwheel
+    100036: leftwingshort
+    100038: middleEtank
+    100040: prop_1_fas
+    100042: prop_1_slo
+    100044: righm
+    100046: Right Flap
+    100048: rightEtank
+    100050: rightpylon
+    100052: rightWheel
+    100054: rightwingShort
+    100056: rudder
+    100058: steeringwh
+    100060: tail
+    100062: wheel_lf
+    100064: windscreen
+    100066: wing_l
+    100068: wing_r
+    400000: ' 1'
+    400002: aileron_l
+    400004: aileron_r
+    400006: bodyshell
+    400008: chassis
+    400010: door_dside
+    400012: elevator_l
+    400014: elevator_r
+    400016: extra_1
+    400018: //RootNode
+    400020: gear_door_
+    400022: gear_f
+    400024: gear_rl
+    400026: gear_rr
+    400028: leftEtank
+    400030: leftm
+    400032: leftpylon
+    400034: leftwheel
+    400036: leftwingshort
+    400038: middleEtank
+    400040: prop_1_fas
+    400042: prop_1_slo
+    400044: righm
+    400046: Right Flap
+    400048: rightEtank
+    400050: rightpylon
+    400052: rightWheel
+    400054: rightwingShort
+    400056: rudder
+    400058: steeringwh
+    400060: tail
+    400062: wheel_lf
+    400064: windscreen
+    400066: wing_l
+    400068: wing_r
+    2100000: 'Material #167'
+    2100002: 'Material #168'
+    2100004: 'Material #166'
+    2100006: 'Material #165'
+    2100008: 'Material #160'
+    2100010: 'Material #161'
+    2100012: 'Material #162'
+    2100014: 'Material #156'
+    2100016: 'Material #159'
+    2100018: vehicle_generic_
+    2100020: 'Material #157'
+    2100022: 'Material #158'
+    2100024: 'Material #169'
+    2100026: 'Material #171'
+    2100028: 'Material #136'
+    2100030: 'Material #147'
+    2100032: 'Material #138'
+    2100034: 'Material #139'
+    2100036: 'Material #140'
+    2100038: 'Material #145'
+    2100040: 'Material #146'
+    2100042: 'Material #142'
+    2100044: 'Material #141'
+    2100046: 'Material #173'
+    2100048: 'Material #172'
+    2100050: 'Material #151'
+    2100052: 'Material #152'
+    2100054: 'Material #153'
+    2100056: a29b_02
+    2100058: 'Material #170'
+    2100060: 'Material #155'
+    2100062: 'Material #154'
+    2100064: 'Material #135'
+    2100066: 'Material #143'
+    2100068: 'Material #144'
+    2100070: 'Material #148'
+    2100072: 'Material #149'
+    2100074: 'Material #150'
+    2300000: ' 1'
+    2300002: aileron_l
+    2300004: aileron_r
+    2300006: bodyshell
+    2300008: chassis
+    2300010: door_dside
+    2300012: elevator_l
+    2300014: elevator_r
+    2300016: gear_door_
+    2300018: gear_f
+    2300020: gear_rl
+    2300022: gear_rr
+    2300024: leftEtank
+    2300026: leftm
+    2300028: leftpylon
+    2300030: leftwheel
+    2300032: leftwingshort
+    2300034: middleEtank
+    2300036: prop_1_fas
+    2300038: prop_1_slo
+    2300040: righm
+    2300042: Right Flap
+    2300044: rightEtank
+    2300046: rightpylon
+    2300048: rightWheel
+    2300050: rightwingShort
+    2300052: rudder
+    2300054: steeringwh
+    2300056: tail
+    2300058: wheel_lf
+    2300060: windscreen
+    2300062: wing_l
+    2300064: wing_r
+    3300000: ' 1'
+    3300002: aileron_l
+    3300004: aileron_r
+    3300006: bodyshell
+    3300008: chassis
+    3300010: door_dside
+    3300012: elevator_l
+    3300014: elevator_r
+    3300016: gear_door_
+    3300018: gear_f
+    3300020: gear_rl
+    3300022: gear_rr
+    3300024: leftEtank
+    3300026: leftm
+    3300028: leftpylon
+    3300030: leftwheel
+    3300032: leftwingshort
+    3300034: middleEtank
+    3300036: prop_1_fas
+    3300038: prop_1_slo
+    3300040: righm
+    3300042: Right Flap
+    3300044: rightEtank
+    3300046: rightpylon
+    3300048: rightWheel
+    3300050: rightwingShort
+    3300052: rudder
+    3300054: steeringwh
+    3300056: tail
+    3300058: wheel_lf
+    3300060: windscreen
+    3300062: wing_l
+    3300064: wing_r
+    4300000: prop_1_fas
+    4300002: prop_1_slo
+    4300004: chassis
+    4300006: door_dside
+    4300008: gear_f
+    4300010: wheel_lf
+    4300012: windscreen
+    4300014: bodyshell
+    4300016: wing_l
+    4300018: aileron_l
+    4300020: gear_rl
+    4300022: wing_r
+    4300024: aileron_r
+    4300026: gear_rr
+    4300028: tail
+    4300030: rudder
+    4300032: steeringwh
+    4300034: gear_door_
+    4300036: elevator_l
+    4300038: elevator_r
+    4300040: leftwheel
+    4300042: rightWheel
+    4300044: rightwingShort
+    4300046: leftwingshort
+    4300048: rightpylon
+    4300050: leftpylon
+    4300052: middleEtank
+    4300054: leftEtank
+    4300056: rightEtank
+    4300058: righm
+    4300060: leftm
+    4300064: Right Flap
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

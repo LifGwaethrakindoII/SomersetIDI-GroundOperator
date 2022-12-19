@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 7a1ca93b33fcb264c9d7de5c8fb30492
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Barrel
+    100004: Body
+    100006: Canopy
+    100008: Front Axle
+    100010: Front Gear
+    100012: Front Gear 1
+    100014: Front Wheel
+    100016: Left Aileron
+    100018: Left Elevator
+    100020: Left Engine
+    100022: Left Gear
+    100024: Left Rudder
+    100026: Left Tail
+    100028: Left Turbine
+    100030: Left Wheel
+    100032: Left Wing
+    100034: Right Aileron
+    100036: Right Elevator
+    100038: Right Engine
+    100040: Right Gear
+    100042: Right Rudder
+    100044: Right Tail
+    100046: Right Turbne
+    100048: Right Wheel
+    100050: Right Wing
+    100052: Body_MeshPart0
+    100054: Body_MeshPart1
+    400000: //RootNode
+    400002: Barrel
+    400004: Body
+    400006: Canopy
+    400008: Front Axle
+    400010: Front Gear
+    400012: Front Gear 1
+    400014: Front Wheel
+    400016: Left Aileron
+    400018: Left Elevator
+    400020: Left Engine
+    400022: Left Gear
+    400024: Left Rudder
+    400026: Left Tail
+    400028: Left Turbine
+    400030: Left Wheel
+    400032: Left Wing
+    400034: Right Aileron
+    400036: Right Elevator
+    400038: Right Engine
+    400040: Right Gear
+    400042: Right Rudder
+    400044: Right Tail
+    400046: Right Turbne
+    400048: Right Wheel
+    400050: Right Wing
+    400052: Body_MeshPart0
+    400054: Body_MeshPart1
+    2300000: Barrel
+    2300002: Body
+    2300004: Canopy
+    2300006: Front Axle
+    2300008: Front Gear
+    2300010: Front Gear 1
+    2300012: Front Wheel
+    2300014: Left Aileron
+    2300016: Left Elevator
+    2300018: Left Engine
+    2300020: Left Gear
+    2300022: Left Rudder
+    2300024: Left Tail
+    2300026: Left Turbine
+    2300028: Left Wheel
+    2300030: Left Wing
+    2300032: Right Aileron
+    2300034: Right Elevator
+    2300036: Right Engine
+    2300038: Right Gear
+    2300040: Right Rudder
+    2300042: Right Tail
+    2300044: Right Turbne
+    2300046: Right Wheel
+    2300048: Right Wing
+    2300050: Body_MeshPart0
+    2300052: Body_MeshPart1
+    3300000: Barrel
+    3300002: Body
+    3300004: Canopy
+    3300006: Front Axle
+    3300008: Front Gear
+    3300010: Front Gear 1
+    3300012: Front Wheel
+    3300014: Left Aileron
+    3300016: Left Elevator
+    3300018: Left Engine
+    3300020: Left Gear
+    3300022: Left Rudder
+    3300024: Left Tail
+    3300026: Left Turbine
+    3300028: Left Wheel
+    3300030: Left Wing
+    3300032: Right Aileron
+    3300034: Right Elevator
+    3300036: Right Engine
+    3300038: Right Gear
+    3300040: Right Rudder
+    3300042: Right Tail
+    3300044: Right Turbne
+    3300046: Right Wheel
+    3300048: Right Wing
+    3300050: Body_MeshPart0
+    3300052: Body_MeshPart1
+    4300000: Body
+    4300002: Front Gear
+    4300004: Front Axle
+    4300006: Front Wheel
+    4300008: Front Gear
+    4300010: Barrel
+    4300012: Left Engine
+    4300014: Right Engine
+    4300016: Left Wing
+    4300018: Right Wing
+    4300020: Left Tail
+    4300022: Right Tail
+    4300024: Canopy
+    4300026: Left Elevator
+    4300028: Right Elevator
+    4300030: Left Rudder
+    4300032: Right Rudder
+    4300034: Right Aileron
+    4300036: Left Aileron
+    4300038: Right Gear
+    4300040: Right Wheel
+    4300042: Left Gear
+    4300044: Left Wheel
+    4300046: Left Turbine
+    4300048: Right Turbne
+    4300050: Body_MeshPart0
+    4300052: Body_MeshPart1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _A-10-ThunderBolt_2895815_dds
+    second: {fileID: 2100000, guid: 9be896d95636f314c96fb2654a2facdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _A-10-ThunderBolt_39021a9_dds
+    second: {fileID: 2100000, guid: 0a41091855c44e740ba97a61cb65f371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _A-10-ThunderBolt_442d851_dds
+    second: {fileID: 2100000, guid: d0151f5fd3ccfe14cb81f26d3540dda6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _A-10-ThunderBolt_5724f40_dds
+    second: {fileID: 2100000, guid: f2026884d4a7c3246a523e8a7f278cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _A-10-ThunderBolt_a0050c5_dds
+    second: {fileID: 2100000, guid: 4e523f34f41410042b97dd01fdc14a4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _A-10-ThunderBoltac38f07c_dds
+    second: {fileID: 2100000, guid: a6600f77da91f0540a1a32810387eb70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _A-10-ThunderBoltac5810dd_dds
+    second: {fileID: 2100000, guid: 2fa296a2b455dd0479c0a1b8832c14f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _A-10-ThunderBoltd2402619_dds
+    second: {fileID: 2100000, guid: 2509093de87d84449b5f90f281b8db67, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 8.64
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

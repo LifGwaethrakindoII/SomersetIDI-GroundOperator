@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: ef19522c93f522b4b890fa37979f01b3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: A320 1
+    100004: a320:llanta_delantera
+    100006: a320:Llantas_traseras
+    100008: a320:polySurface223
+    100010: a320:polySurface224
+    100012: a320:polySurface225
+    100014: a320:polySurface226
+    100016: a320:polySurface231
+    100018: a320:polySurface232
+    100020: a320:polySurface233
+    100022: a320:Puerta_equipaje
+    100024: a320:Puertas
+    100026: a321:Puerta
+    100028: aspas
+    100030: aspas 1
+    100032: aspas_1
+    100034: Llantas2
+    100036: llantas_traseras_derecha
+    100038: llantas_traseras_izquierda
+    100040: polySurface235
+    100042: polySurface236
+    100044: Puerta_llanta
+    100046: Puertallanta2
+    400000: //RootNode
+    400002: A320 1
+    400004: a320:llanta_delantera
+    400006: a320:Llantas_traseras
+    400008: a320:polySurface223
+    400010: a320:polySurface224
+    400012: a320:polySurface225
+    400014: a320:polySurface226
+    400016: a320:polySurface231
+    400018: a320:polySurface232
+    400020: a320:polySurface233
+    400022: a320:Puerta_equipaje
+    400024: a320:Puertas
+    400026: a321:Puerta
+    400028: aspas
+    400030: aspas 1
+    400032: aspas_1
+    400034: Llantas2
+    400036: llantas_traseras_derecha
+    400038: llantas_traseras_izquierda
+    400040: polySurface235
+    400042: polySurface236
+    400044: Puerta_llanta
+    400046: Puertallanta2
+    2100000: pasted__Windows
+    2100002: pasted__Plane
+    2100004: pasted__Alas
+    2100006: lambert1
+    2100008: a320_Equipaje
+    2100010: a321_Entrada
+    2100012: soporrte_Llantas1
+    2100014: Llantas1
+    2100016: soporrte_Llantas
+    2100018: Llantas
+    2300000: A320 1
+    2300002: a320:polySurface223
+    2300004: a320:polySurface224
+    2300006: a320:polySurface225
+    2300008: a320:polySurface226
+    2300010: a320:polySurface231
+    2300012: a320:polySurface232
+    2300014: a320:polySurface233
+    2300016: a320:Puerta_equipaje
+    2300018: a321:Puerta
+    2300020: aspas 1
+    2300022: aspas_1
+    2300024: polySurface235
+    2300026: polySurface236
+    2300028: Puerta_llanta
+    2300030: Puertallanta2
+    3300000: A320 1
+    3300002: a320:polySurface223
+    3300004: a320:polySurface224
+    3300006: a320:polySurface225
+    3300008: a320:polySurface226
+    3300010: a320:polySurface231
+    3300012: a320:polySurface232
+    3300014: a320:polySurface233
+    3300016: a320:Puerta_equipaje
+    3300018: a321:Puerta
+    3300020: aspas 1
+    3300022: aspas_1
+    3300024: polySurface235
+    3300026: polySurface236
+    3300028: Puerta_llanta
+    3300030: Puertallanta2
+    4300000: A320
+    4300002: Puertallanta2
+    4300004: Puerta_llanta
+    4300006: a320:Puerta_equipaje
+    4300008: a321:Puerta
+    4300010: aspas_1
+    4300012: aspas
+    4300014: polySurface235
+    4300016: a320:polySurface223
+    4300018: a320:polySurface224
+    4300020: a320:polySurface225
+    4300022: a320:polySurface226
+    4300024: polySurface236
+    4300026: a320:polySurface233
+    4300028: a320:polySurface232
+    4300030: a320:polySurface231
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
